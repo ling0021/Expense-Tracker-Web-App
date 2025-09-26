@@ -76,6 +76,6 @@ Frontend runs at: http://localhost:3000
 ⸻
 
 👤 Author
-	Ling 
+	•	GitHub: ling0021
 
 
